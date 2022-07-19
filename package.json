@@ -1,0 +1,25 @@
+{
+    "name": "kenobi-dark-theme",
+    "displayName": "Kenobi Dark Theme",
+    "description": "Kenobi Dark color theme",
+    "publisher": "BrunoDaSilva",
+    "author": {
+        "name": "Bruno DaSilva"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kenobi Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kenobi Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
