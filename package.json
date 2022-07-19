@@ -35,7 +35,7 @@
         "color": "#060931",
         "theme": "dark"
     },
-    "icon": "./assets/images/KENOBILOGO.png",
+    "icon": "assets/images/KENOBILOGO.png",
     "categories": [
         "Themes"
     ],
