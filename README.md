@@ -1,14 +1,14 @@
-# README
-## This is the README for your extension "kenobi-dark-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Kenobi Dark theme for VS Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+##### <img src="https://res.cloudinary.com/duprwuo4j/image/upload/v1658269496/KENOBILOGO_i08cp4.png" width="100px" alt="Kenobi logo" style="box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);border-radius: 50%"> Kenobi Dark color theme from Bruno-DaSilva.com.
+
+---
+
+![Screenshot](https://res.cloudinary.com/duprwuo4j/image/upload/v1658269381/KENOBISAMPLE_xff0ug.png)
 
 ### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
-# Kenobi-dark-vs-code-color-theme

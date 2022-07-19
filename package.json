@@ -10,6 +10,31 @@
     "engines": {
         "vscode": "^1.46.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Brunno-DaSilva/Kenobi-dark-vs-code-color-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Brunno-DaSilva/Kenobi-dark-vs-code-color-theme.git/issues"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "dark purple theme",
+        "dracula Dark blue theme",
+        "vs code dark theme",
+        "vscode theme",
+        "theme",
+        "purple theme",
+        "green theme",
+        "yellow",
+        "Bruno da silva",
+        "bruno-dasilva.com"
+    ],
+    "galleryBanner": {
+        "color": "#060931",
+        "theme": "dark"
+    },
     "categories": [
         "Themes"
     ],
