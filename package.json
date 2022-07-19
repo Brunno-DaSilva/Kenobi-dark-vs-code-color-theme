@@ -44,7 +44,7 @@
             {
                 "label": "Kenobi Dark Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Kenobi Dark Theme-color-theme.json"
+                "path": "./themes/kenobi-dark-theme-color-theme.json"
             }
         ]
     }
