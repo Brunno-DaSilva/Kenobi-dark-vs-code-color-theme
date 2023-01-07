@@ -292,7 +292,7 @@
         "entity.name.tag"
       ],
       "settings": {
-        "foreground": "#BDD5EA"
+        "foreground": "#9dc1e0"
       }
     },
     {
@@ -347,6 +347,13 @@
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
         "foreground": "#17F1DF"
+      }
+    },
+    {
+      "name": "Storage Type",
+      "scope": ["storage.type"],
+      "settings": {
+        "foreground": "#F7BB4C"
       }
     },
     {
