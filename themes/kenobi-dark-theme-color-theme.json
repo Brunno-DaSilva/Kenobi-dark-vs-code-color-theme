@@ -300,13 +300,8 @@
       }
     },
     {
-      "name": "Variable, String Link, Regular Expression, GitGutter deleted, string constant.other.placeholder ",
-      "scope": [
-        "variable",
-        "string.other.link",
-        "string.regexp",
-        "entity.name.tag"
-      ],
+      "name": "Variable, String Link, Regular Expression, GitGutter deleted ",
+      "scope": ["variable", "string.other.link", "string.regexp"],
       "settings": {
         "foreground": "#9dc1e0"
       }
@@ -418,6 +413,14 @@
         "foreground": "#AE81FF"
       }
     },
+    {
+      "name": "string constant.other.placeholder ",
+      "scope": ["variable.other.property.ts"],
+      "settings": {
+        "foreground": "#e7e2a9"
+      }
+    },
+
     {
       "name": "Text HTML Derivative",
       "scope": ["text.html.derivative"],
