@@ -250,9 +250,25 @@
 
   "tokenColors": [
     {
-      "scope": ["meta.embedded", "source.groovy.embedded"],
+      "scope": ["source.groovy.embedded"],
       "settings": {
-        "foreground": "#F1EFF8"
+        "foreground": "#9DC1E0"
+      }
+    },
+    {
+      "scope": ["meta.embedded"],
+      "settings": {
+        "foreground": "#9DC1E0"
+      }
+    },
+    {
+      "scope": [
+        "meta.embedded.block.graphql",
+        "meta.selections",
+        "meta.var.expr.ts"
+      ],
+      "settings": {
+        "foreground": "#2DE0A7"
       }
     },
     {
